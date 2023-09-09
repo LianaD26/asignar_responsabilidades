@@ -1,5 +1,6 @@
 # Asignación de responsabilidades
 ![img.png](img.png)
+
 ![img_1.png](img_1.png)
 
 # Diagrama del problema
