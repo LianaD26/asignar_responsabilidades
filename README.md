@@ -1,9 +1,5 @@
 # Asignación de responsabilidades
-Requisitos 1 y 2
-![img.png](img.png)
-
-Requisito 3
-![img_1.png](img_1.png)
+![img_3.png](img_3.png)
 
 # Diagrama del problema
 
